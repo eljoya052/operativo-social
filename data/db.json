@@ -1,0 +1,376 @@
+{
+  "operatives": [
+    {
+      "id": "op-2026-10-17",
+      "name": "OPERATIVO SOCIAL IBM",
+      "organization": "Iglesia Bautista Millaray — IBM",
+      "address": "Chacay 1164, Temuco, Chile",
+      "date": "2026-10-17",
+      "startTime": "11:00",
+      "endTime": "17:00",
+      "slotDurationMinutes": 20,
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.652Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    }
+  ],
+  "activeOperativeId": "op-2026-10-17",
+  "services": [
+    {
+      "id": "srv-1",
+      "name": "Fonoaudiología",
+      "description": "Evaluación y terapia del habla, lenguaje y deglución",
+      "color": "#0284c7",
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.653Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    },
+    {
+      "id": "srv-2",
+      "name": "Psicología",
+      "description": "Orientación psicológica, apoyo emocional y contención",
+      "color": "#7c3aed",
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.653Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    },
+    {
+      "id": "srv-3",
+      "name": "Asistencia Social",
+      "description": "Orientación en beneficios del Estado, subsidios y redes de apoyo",
+      "color": "#059669",
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.653Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    },
+    {
+      "id": "srv-4",
+      "name": "Enfermería",
+      "description": "Control de signos vitales, glicemia, presión arterial y curaciones",
+      "color": "#dc2626",
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.653Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    },
+    {
+      "id": "srv-5",
+      "name": "Asesoría Jurídica",
+      "description": "Consultoría legal en familia, herencias, laboral y civil",
+      "color": "#d97706",
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.653Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    },
+    {
+      "id": "srv-6",
+      "name": "Óptica",
+      "description": "Evaluación visual preventiva, agudeza y receta de lentes",
+      "color": "#2563eb",
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.653Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    },
+    {
+      "id": "srv-7",
+      "name": "Veterinaria",
+      "description": "Atención primaria a mascotas, desparasitación y chequeo",
+      "color": "#16a34a",
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.653Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    },
+    {
+      "id": "srv-8",
+      "name": "Kinesiología",
+      "description": "Evaluación musculoesquelética, dolor articular y movilidad",
+      "color": "#ea580c",
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.653Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    },
+    {
+      "id": "srv-9",
+      "name": "Estilismo",
+      "description": "Cortes de cabello y estética comunitaria",
+      "color": "#db2777",
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.653Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    },
+    {
+      "id": "srv-10",
+      "name": "Podología",
+      "description": "Cuidado clínico de pies, uñas y prevención en pie diabético",
+      "color": "#4f46e5",
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.653Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    },
+    {
+      "id": "srv-11",
+      "name": "Matronería",
+      "description": "Orientación en salud reproductiva, exámenes preventivos y consejería",
+      "color": "#9333ea",
+      "active": true,
+      "createdAt": "2026-09-30T21:55:51.653Z",
+      "updatedAt": "2026-09-30T21:55:51.653Z"
+    }
+  ],
+  "professionals": [
+    {
+      "id": "prof-1",
+      "name": "Fonoaudiología",
+      "surname": "",
+      "specialty": "Fonoaudiología",
+      "email": "fonoaudiologia@ibm.cl",
+      "userEmail": "fonoaudiologia@ibm.cl",
+      "phone": "",
+      "serviceIds": [
+        "srv-1"
+      ],
+      "active": true
+    },
+    {
+      "id": "prof-2",
+      "name": "Psicología",
+      "surname": "",
+      "specialty": "Psicología",
+      "email": "psicologia@ibm.cl",
+      "userEmail": "psicologia@ibm.cl",
+      "phone": "",
+      "serviceIds": [
+        "srv-2"
+      ],
+      "active": true
+    },
+    {
+      "id": "prof-3",
+      "name": "Asistencia Social",
+      "surname": "",
+      "specialty": "Asistencia Social",
+      "email": "asistencia.social@ibm.cl",
+      "userEmail": "asistencia.social@ibm.cl",
+      "phone": "",
+      "serviceIds": [
+        "srv-3"
+      ],
+      "active": true
+    },
+    {
+      "id": "prof-4",
+      "name": "Enfermería",
+      "surname": "",
+      "specialty": "Enfermería",
+      "email": "enfermeria@ibm.cl",
+      "userEmail": "enfermeria@ibm.cl",
+      "phone": "",
+      "serviceIds": [
+        "srv-4"
+      ],
+      "active": true
+    },
+    {
+      "id": "prof-5",
+      "name": "Asesoría Jurídica",
+      "surname": "",
+      "specialty": "Asesoría Jurídica",
+      "email": "asesoria.juridica@ibm.cl",
+      "userEmail": "asesoria.juridica@ibm.cl",
+      "phone": "",
+      "serviceIds": [
+        "srv-5"
+      ],
+      "active": true
+    },
+    {
+      "id": "prof-6",
+      "name": "Óptica",
+      "surname": "",
+      "specialty": "Óptica",
+      "email": "optica@ibm.cl",
+      "userEmail": "optica@ibm.cl",
+      "phone": "",
+      "serviceIds": [
+        "srv-6"
+      ],
+      "active": true
+    },
+    {
+      "id": "prof-7",
+      "name": "Veterinaria",
+      "surname": "",
+      "specialty": "Veterinaria",
+      "email": "veterinaria@ibm.cl",
+      "userEmail": "veterinaria@ibm.cl",
+      "phone": "",
+      "serviceIds": [
+        "srv-7"
+      ],
+      "active": true
+    },
+    {
+      "id": "prof-8",
+      "name": "Kinesiología",
+      "surname": "",
+      "specialty": "Kinesiología",
+      "email": "kinesiologia@ibm.cl",
+      "userEmail": "kinesiologia@ibm.cl",
+      "phone": "",
+      "serviceIds": [
+        "srv-8"
+      ],
+      "active": true
+    },
+    {
+      "id": "prof-9",
+      "name": "Estilismo",
+      "surname": "",
+      "specialty": "Estilismo",
+      "email": "estilismo@ibm.cl",
+      "userEmail": "estilismo@ibm.cl",
+      "phone": "",
+      "serviceIds": [
+        "srv-9"
+      ],
+      "active": true
+    },
+    {
+      "id": "prof-10",
+      "name": "Podología",
+      "surname": "",
+      "specialty": "Podología",
+      "email": "podologia@ibm.cl",
+      "userEmail": "podologia@ibm.cl",
+      "phone": "",
+      "serviceIds": [
+        "srv-10"
+      ],
+      "active": true
+    },
+    {
+      "id": "prof-11",
+      "name": "Matronería",
+      "surname": "",
+      "specialty": "Matronería",
+      "email": "matroneria@ibm.cl",
+      "userEmail": "matroneria@ibm.cl",
+      "phone": "",
+      "serviceIds": [
+        "srv-11"
+      ],
+      "active": true
+    }
+  ],
+  "patients": [],
+  "appointments": [],
+  "waitingList": [],
+  "users": [
+    {
+      "id": "usr-admin",
+      "name": "Pastor Administrador",
+      "email": "admin@ibm.cl",
+      "role": "ADMIN"
+    },
+    {
+      "id": "usr-recep1",
+      "name": "Recepción Central",
+      "email": "recepcion@ibm.cl",
+      "role": "RECEPCION"
+    },
+    {
+      "id": "usr-recep2",
+      "name": "Recepción 02",
+      "email": "recepcion2@ibm.cl",
+      "role": "RECEPCION"
+    },
+    {
+      "id": "usr-psico",
+      "name": "Psicología",
+      "email": "psicologia@ibm.cl",
+      "role": "PROFESIONAL",
+      "professionalId": "prof-2"
+    },
+    {
+      "id": "usr-enf",
+      "name": "Enfermería",
+      "email": "enfermeria@ibm.cl",
+      "role": "PROFESIONAL",
+      "professionalId": "prof-4"
+    },
+    {
+      "id": "usr-kine",
+      "name": "Kinesiología",
+      "email": "kinesiologia@ibm.cl",
+      "role": "PROFESIONAL",
+      "professionalId": "prof-8"
+    },
+    {
+      "id": "usr-soc",
+      "name": "Asistencia Social",
+      "email": "asistencia.social@ibm.cl",
+      "role": "PROFESIONAL",
+      "professionalId": "prof-3"
+    },
+    {
+      "id": "usr-vet",
+      "name": "Veterinaria",
+      "email": "veterinaria@ibm.cl",
+      "role": "PROFESIONAL",
+      "professionalId": "prof-7"
+    },
+    {
+      "id": "usr-fono",
+      "name": "Fonoaudiología",
+      "email": "fonoaudiologia@ibm.cl",
+      "role": "PROFESIONAL",
+      "professionalId": "prof-1"
+    },
+    {
+      "id": "usr-opt",
+      "name": "Óptica",
+      "email": "optica@ibm.cl",
+      "role": "PROFESIONAL",
+      "professionalId": "prof-6"
+    },
+    {
+      "id": "usr-pod",
+      "name": "Podología",
+      "email": "podologia@ibm.cl",
+      "role": "PROFESIONAL",
+      "professionalId": "prof-10"
+    },
+    {
+      "id": "usr-mat",
+      "name": "Matronería",
+      "email": "matroneria@ibm.cl",
+      "role": "PROFESIONAL",
+      "professionalId": "prof-11"
+    },
+    {
+      "id": "usr-est",
+      "name": "Estilismo",
+      "email": "estilismo@ibm.cl",
+      "role": "PROFESIONAL",
+      "professionalId": "prof-9"
+    },
+    {
+      "id": "usr-jur",
+      "name": "Asesoría Jurídica",
+      "email": "asesoria.juridica@ibm.cl",
+      "role": "PROFESIONAL",
+      "professionalId": "prof-5"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1790807233566",
+      "userId": "usr-admin",
+      "userName": "Pastor Administrador",
+      "action": "Puesta en Marcha Operativo Real",
+      "entityType": "operative",
+      "entityId": "op-2026-10-17",
+      "details": "Se han eliminado todos los pacientes y citas previas. Sistema listo y en cero para el Operativo Social IBM.",
+      "timestamp": "2026-09-30T22:27:13.566Z"
+    }
+  ]
+}
